@@ -13,18 +13,35 @@
 - **Distributeur automatique miniaturisé:** Conception et impression 3D d'un distributeur utilisant des mécanismes automatisés pour la distribution de petits produits.
 
 ## Compétences techniques
-- **Langages de programmation:**
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **Plateformes:**
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-  ![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+### Langages de programmation:
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
--  **Outils:** Git, MATLAB, MS Office
-- **Langues:** Espagnol (Courant), Français (Avancé), Anglais (Avancé), Italien et Portugais (Basique)
+### Plateformes:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+
+### Outils:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![MS Office](https://img.shields.io/badge/-MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-005386?style=flat-square&logo=solidworks&logoColor=white)
+
+### Langues:
+![Espagnol](https://img.shields.io/badge/-Espagnol-007ACC?style=flat-square&logoColor=white&logo=deepl)
+![Français](https://img.shields.io/badge/-Français-007ACC?style=flat-square&logoColor=white&logo=deepl)
+![Anglais](https://img.shields.io/badge/-Anglais-007ACC?style=flat-square&logoColor=white&logo=deepl)
+![Italien](https://img.shields.io/badge/-Italien-007ACC?style=flat-square&logoColor=white&logo=deepl)
+![Portugais](https://img.shields.io/badge/-Portugais-007ACC?style=flat-square&logoColor=white&logo=deepl)
 
 
 ## Engagements
