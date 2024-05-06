@@ -37,11 +37,7 @@
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-005386?style=flat-square&logo=solidworks&logoColor=white)
 
 ### Langues:
-![Espagnol](https://img.shields.io/badge/-Espagnol-007ACC?style=flat-square&logoColor=white&logo=deepl)
-![Français](https://img.shields.io/badge/-Français-007ACC?style=flat-square&logoColor=white&logo=deepl)
-![Anglais](https://img.shields.io/badge/-Anglais-007ACC?style=flat-square&logoColor=white&logo=deepl)
-![Italien](https://img.shields.io/badge/-Italien-007ACC?style=flat-square&logoColor=white&logo=deepl)
-![Portugais](https://img.shields.io/badge/-Portugais-007ACC?style=flat-square&logoColor=white&logo=deepl)
+** Français (Courant), Anglais (Avancé), Italien et Portugais (Basique)
 
 
 ## Engagements
