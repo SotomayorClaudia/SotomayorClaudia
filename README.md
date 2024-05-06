@@ -29,6 +29,7 @@
 
 ## Engagements
 🌍 Volontariat pour la sensibilisation et la protection de l'environnement.
+
 🚀 Participation active à des concours d'innovation pour pousser les limites de la technologie actuelle.
 
 ## 📫 Contactez-moi!
