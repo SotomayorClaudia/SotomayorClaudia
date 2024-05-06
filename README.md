@@ -33,8 +33,7 @@
 
 ## 📫 Contactez-moi!
 - **Email:** [sotomayorclaudia.a@gmail.com](mailto:sotomayorclaudia.a@gmail.com)
-- **LinkedIn:** [Visitez mon profil LinkedIn](https://www.linkedin.com/in/claudia-sotomayor)
+- **LinkedIn:** [Visitez mon profil LinkedIn](https://www.linkedin.com/in/sotomayorclaudia/)
 
 Je suis toujours ouverte à discuter de nouvelles technologies et opportunités de collaboration. N'hésitez pas à me contacter!
 
-![Profile views](https://gpvc.arturio.dev/SotomayorClaudia)
