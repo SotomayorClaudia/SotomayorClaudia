@@ -24,7 +24,7 @@
   ![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
 -  **Outils:** Git, MATLAB, MS Office
-- **Langues:** Français (Courant), Anglais (Avancé), Italien et Portugais (Basique)
+- **Langues:** Espagnol (Courant), Français (Avancé), Anglais (Avancé), Italien et Portugais (Basique)
 
 
 ## Engagements
