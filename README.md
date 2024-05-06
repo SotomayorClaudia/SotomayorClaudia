@@ -16,6 +16,7 @@
 
 ### Langages de programmation:
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -28,16 +29,19 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/-Autodesk-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Outils:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![MS Office](https://img.shields.io/badge/-MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-005386?style=flat-square&logo=solidworks&logoColor=white)
 
 ### Langues:
-** Français (Courant), Anglais (Avancé), Italien et Portugais (Basique)
+Français (Courant), Anglais (Avancé), Italien et Portugais (Basique)
 
 
 ## Engagements
