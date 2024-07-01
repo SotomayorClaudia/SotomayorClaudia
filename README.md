@@ -50,7 +50,7 @@ Français (Courant), Anglais (Avancé), Italien et Portugais (Basique)
 🚀 Participation active à des concours d'innovation pour pousser les limites de la technologie actuelle.
 
 ## 📫 Contactez-moi!
-- **Email:** [sotomayorclaudia.a@gmail.com](mailto:sotomayorclaudia.a@gmail.com)
+- **Email:** [claudiasotomayor.fr@gmail.com](mailto:claudiasotomayor.fr@gmail.com)
 - **LinkedIn:** [Visitez mon profil LinkedIn](https://www.linkedin.com/in/sotomayorclaudia/)
 
 Je suis toujours ouverte à discuter de nouvelles technologies et opportunités de collaboration. N'hésitez pas à me contacter!
